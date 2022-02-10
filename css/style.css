@@ -12,16 +12,11 @@ header {
 img {
   width: 75%;
   margin-top: 1em;
-  /* margin-bottom: 1em; */
 }
 
 .header-container {
   text-align: center;
 }
-
-/* div.logo {
-  text-align: center;
-} */
 
 .nav-item a {
   display: block;
@@ -43,7 +38,6 @@ img {
 }
 
 main {
-  /* background-color: white; */
   border-radius: 0.5rem;
   margin-left: 1.5em;
   margin-right: 1.5em;
