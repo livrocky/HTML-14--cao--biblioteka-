@@ -1,0 +1,17 @@
+img {
+  width: 95%;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+div.logo {
+  text-align: center;
+}
+
+.nav-item a {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  font-size: xx-large;
+  margin-bottom: 0.8em;
+}
