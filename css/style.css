@@ -4,6 +4,7 @@ body {
 
 header {
   background-color: white;
+  box-shadow: 0px 0px 10px #888888;
 }
 
 img {
@@ -31,20 +32,42 @@ div.logo {
 
 main {
   background-color: white;
+  border-radius: 0.5rem;
+  margin-left: 1.5em;
+  margin-right: 1.5em;
 }
 
 h1 {
   padding-top: 1em;
   padding-bottom: 1em;
+  color: rgb(74, 70, 70);
+  font-weight: 200;
 }
 
 th {
   padding-bottom: 0.5em;
+  color: rgb(74, 70, 70);
+  text-align: left;
 }
 
 td {
-  border-top: 1px solid gray;
-  border-bottom: 1px solid gray;
+  border-top: 1px solid rgb(194, 191, 191);
+  border-bottom: 1px solid rgb(194, 191, 191);
+  color: rgb(74, 70, 70);
   padding-top: 0.5em;
   padding-bottom: 0.5em;
+  text-align: left;
+}
+
+table {
+  font-size: 1em;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+/* MAIN BAIGIASI */
+
+footer {
+  text-align: center;
+  color: rgb(74, 70, 70);
 }
