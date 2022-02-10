@@ -1,3 +1,11 @@
+body {
+  background-color: rgb(230, 228, 228);
+}
+
+header {
+  background-color: white;
+}
+
 img {
   width: 95%;
   margin-top: 1em;
@@ -14,4 +22,29 @@ div.logo {
   text-decoration: none;
   font-size: xx-large;
   margin-bottom: 0.8em;
+}
+
+.item2 {
+  padding-bottom: 1em;
+}
+/* headeris baigiasi */
+
+main {
+  background-color: white;
+}
+
+h1 {
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+th {
+  padding-bottom: 0.5em;
+}
+
+td {
+  border-top: 1px solid gray;
+  border-bottom: 1px solid gray;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
 }
